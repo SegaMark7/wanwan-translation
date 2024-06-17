@@ -2,12 +2,12 @@
 
 ## Описание
 
-WANWAN AIJOU MONOGATARI
+WANWAN AIJOU MONOGATARI<br>
 ワンワン愛情物語
 
-Система: Casio Loopy
-Год: 1995
-Разработчик: Alfa System
+Система: Casio Loopy<br>
+Год: 1995<br>
+Разработчик: Alfa System<br>
 Издатель: Casio
 
 ### Введение
@@ -26,12 +26,12 @@ WANWAN AIJOU MONOGATARI
 
 ## Description
 
-WANWAN AIJOU MONOGATARI
+WANWAN AIJOU MONOGATARI<br>
 ワンワン愛情物語
 
-System: Casio Loopy
-Year: 1995
-Developer: Alfa System
+System: Casio Loopy<br>
+Year: 1995<br>
+Developer: Alfa System<br>
 Publisher: Casio
 
 ### Introduction
