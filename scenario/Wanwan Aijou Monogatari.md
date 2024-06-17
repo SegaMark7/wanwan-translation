@@ -1,6 +1,6 @@
 # Main menu
 
-Clock: Hello! Welcome to the world of "Puppy Love Story!" 
+Clock: Hello! Welcome to the world of "Puppy Love Story!"
 
 Momo: Choose from the below menu:
 
